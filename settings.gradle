@@ -1,0 +1,2 @@
+include 'cloudevents-spring-boot-autoconfigure'
+include 'cloudevents-spring-boot-starter'

@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.thomasvitale.spring.cloudevents.autoconfigure.CloudEventsMessagingAutoConfiguration,\
+  com.thomasvitale.spring.cloudevents.autoconfigure.CloudEventsRSocketAutoConfiguration,\
+  com.thomasvitale.spring.cloudevents.autoconfigure.CloudEventsWebFluxAutoConfiguration,\
+  com.thomasvitale.spring.cloudevents.autoconfigure.CloudEventsWebMvcAutoConfiguration
